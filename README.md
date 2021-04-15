@@ -1,11 +1,10 @@
+# Menthorship
 Olá mundo, tudo bem? Deixe a estrelinha no repositório.
 
-Pois èééè muito inportante
-
-que isso aqui
-
-
-seja feito 
+Pois é muito importante que isso aqui
+seja feito com muito carinho pois vale o seu salário
 
 
-mo feio essa formataçãodasgyvdhbasjkmd
+```php
+echo "não estudarei clean code";
+```
