@@ -17,4 +17,4 @@ Nessa aula é apresentado algumas sugestões de editores de texto, sendo eles:
     [Clique aqui para mais informalções](https://www.jetbrains.com/pt-br/phpstorm/)
 
 
-*Lembrando que não é necessário um IDE para codar em PHP, você pode usar qualquer editor de texto da sua preferência.*
+*Lembrando que não é necessário uma IDE para codar em PHP, você pode usar qualquer editor de texto da sua preferência.*
