@@ -31,3 +31,15 @@ Tanta coisa assim, custa. É uma IDE paga, possui 30 dias de free-trial. Pode se
 
 ### Visual Studio Code
 Ainda que não tenha sido citada na aula, é uma ótima IDE gratuita, open-source e mantida pela a Microsoft. Permite personalizações, existem milhares de extensões que podem lhe garantir novas funcionalidades e conexões com outras ferramentes que vão lhe poupar um grande tempo de trabalho e aumentar a sua produtividade. Caso não possa utilizar o PHPStorm, VS Code é uma excelente ferramenta para programação de diversas linguagens.
+
+---
+
+### Primeiros comandos em PHP
+Quando aprendemos qualquer linguagem de programação, o primeiro comando que aprendemos é o chamado "Hello World", para realizarmos este comando em PHP fazemos o seguinte:</br>
+
+
+> <?php // aqui abrimos o bloco PHP, determinando onde começa o nosso código
+> echo "Hello World"; // o comando ECHO em php é usado para imprimir conteúdos na tela ou no console
+> // Abrimos aspas " para determinar onde começa a nossa string e o conteúdo a ser exibido e fechamos aspas " para indicar o fim
+> // no php é necessário finalizar a linha do código com ponto e vírgula ; para indicar o fim daquela linha e início de uma outra. Caso não coloquemos ;, a IDE irá indicar um erro de sintaxe
+
