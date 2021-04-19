@@ -8,3 +8,4 @@
 
 #### :notebook: Módulo básico
 3. [Váriaveis em PHP](/Laracast/Aula-03.md)
+3. [PHP e HTML](/Laracast/Aula-04.md)
