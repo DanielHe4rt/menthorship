@@ -1,10 +1,11 @@
 # Menthorship
-Olá mundo, tudo bem? Deixe a estrelinha no repositório.
+Olá mundo, tudo bem?
 
-Pois é muito importante que isso aqui
-seja feito com muito carinho pois vale o seu salário
-
+Vou usar este repositório para minhas anotações durante a mentoria :)
 
 ```php
-echo "não estudarei clean code";
+echo 'Deixe a estrelinha, vai ajudar demais';
 ```
+
+
+
