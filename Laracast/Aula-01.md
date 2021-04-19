@@ -10,4 +10,4 @@ Copyright (c) The PHP Group
 Zend Engine v3.4.0, Copyright (c) Zend Technologies
     with Zend OPcache v7.4.3, Copyright (c), by Zend Technologies<br>
 
-Ir para: [Aula 02](Aula-02.md)
+Ir para: [Aula 02 - IDEs e primeiros comandos em PHP](Aula-02.md)
