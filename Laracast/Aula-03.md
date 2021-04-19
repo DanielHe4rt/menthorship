@@ -29,9 +29,12 @@ Para isso iremos alterar o nosso exemplo para $name, vamos deixar o código dest
 ```php
 <?php
 
-$name = 'Lucas Bomfim'; // da mesma forma do Hello World, colocaremos nosso conteúdo dentro de aspas simples.
+$name = 'Lucas Bomfim'; /* da mesma forma do Hello World 
+colocaremos nosso conteúdo dentro de aspas simples.*/
 
-echo = "Hello, $name"; // aqui alteraremos para aspas duplas pois queremos que ele interprete a nossa váriavel $name. Caso fosse aspas simples, ele apenas iria imprimir de forma literal o $name.
+echo = "Hello, $name"; /* aqui alteraremos para aspas duplas
+ pois queremos que ele interprete a nossa váriavel $name. 
+ Caso fosse aspas simples, ele apenas iria imprimir de forma literal o $name.*/
 ```
 
 Também poderiamos utilizar a concatenação, também muito utilizada. Diferente de outras linguagens, que costumam utilizar o sinal de + para concatenar, em PHP utilizamos o '.' Como no exemplo abaixo:
@@ -57,7 +60,8 @@ $greeting = 'Hello';
 
 $name = 'Lucas Bomfim';
 
-echo $greeting . ', ' . $name; //imprimiria o Hello concatenado com uma aspa e espaço e concatenado com o Nome.
+echo $greeting . ', ' . $name; /*imprimiria o Hello concatenado com uma aspa e 
+espaço e concatenado com o Nome.*/
 ```
 
 Poderíamos utilizar também sem a concatenação, como já visto anteriormente:
@@ -69,7 +73,9 @@ $greeting = 'Hello';
 
 $name = 'Lucas Bomfim';
 
-echo "$greeting, $name"; // aqui utilizamos as aspas duplas "" para informar que iremos interpretar uma váriavel e não apenas imprimir o conteúdo diretamente na tela e separado por uma vírgula.
+echo "$greeting, $name"; /* aqui utilizamos as aspas duplas "" para informar que iremos
+interpretar uma váriavel e não apenas imprimir o conteúdo diretamente na tela
+e separado por uma vírgula.*/
 ```
 
 Poderíamos também utilizar uma forma mais clean de código utilizando as {} nas váriaveis como no exemplo abaixo:
@@ -81,7 +87,8 @@ $greeting = 'Hello';
 
 $name = 'Lucas Bomfim';
 
-echo "{$greeting}, {$name}"; // aqui utilizamos as aspas duplas "" para informar que iremos interpretar uma váriavel e não apenas imprimir o conteúdo diretamente na tela e separado por uma vírgula.
+echo "{$greeting}, {$name}"; /* aqui utilizamos {} para 
+deixar de forma mais legível as váriaveis que serão declaradas*/
 ```
 
 Nas três formas, teríamos o mesmo conteúdo apresentado, apenas alterando a legibilidade do código para outros devs lerem.
