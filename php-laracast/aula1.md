@@ -41,7 +41,7 @@ O Sublime Text é bom e simples.
 
 * ATOM.io
 
-O Atom é uma boa, mais complexa que o sumblime e é free-to-play.
+O Atom é uma boa, mais complexa que o sublime e é free-to-play.
 
 -> [Clique aqui](https://atom.io/) <-
 
