@@ -16,4 +16,4 @@ PHP está morto. eles disseram...
 
 ### Pré-requisitos
 
-* Configuração do ambiente e IDEs
+* [Configuração do ambiente e IDEs](/php-laracast/aula1.md)
