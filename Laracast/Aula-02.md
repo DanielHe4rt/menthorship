@@ -34,4 +34,4 @@ echo "Hello World"; // o comando ECHO em php é usado para imprimir conteúdos n
 // no php é necessário finalizar a linha do código com ponto e vírgula ; para indicar o fim daquela linha e início de uma outra. Caso não coloquemos ; a IDE irá indicar um erro de sintaxe
 ```
 
-Ir para: [Aula 03 - Váriaveis](Aula-03.md)
+Ir para: [Aula 03 - Váriaveis](modulo-basico/Aula-03.md)

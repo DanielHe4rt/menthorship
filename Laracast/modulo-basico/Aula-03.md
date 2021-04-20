@@ -12,7 +12,7 @@ Para isso, no terminal, iremos digitar o comando "php -S endereço:porta". Sendo
 
 Váriaveis são utilizadas para guardar instruções ou informações que pretendemos utilizar mais tarde ou mais de uma vez. Por conta disso, que utilizamos váriaveis e não imprimos o que queremos diretamente com um "echo".
 
-Para começar, como você pode ver no arquivo [index.php](index.php) invés de passar o "Hello World" diretamente por um echo iremos colocar numa váriavel que recebe um nome que podemos escolher. Por legibilidade do código, precisamos colocar váriaveis que indiquem o que será o conteúdo que ela irá receber. Por padrão, iremos também colocar elas em inglês.
+Para começar, como você pode ver invés de passar o "Hello World" diretamente por um echo iremos colocar numa váriavel que recebe um nome que podemos escolher. Por legibilidade do código, precisamos colocar váriaveis que indiquem o que será o conteúdo que ela irá receber. Por padrão, iremos também colocar elas em inglês.
 
 Para começar, em PHP as váriaveis começam com $, então, iremos colocar $greeting (Informando que é uma váriavel com um conteúdo de 'saudação') e ela irá receber com o sinal = (Na programação, este sinal sempre é de RECEBE algo e não de IGUAL como vemos na matemática, temos outro sinal para isso) a nossa string determinada com aspas e o conteúdo dentro 'Hello World'.
 
