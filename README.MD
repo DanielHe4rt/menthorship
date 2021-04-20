@@ -14,6 +14,10 @@ PHP está morto. eles disseram...
 
 ## ROADMAP
 
-### Pré-requisitos
+### Aula 01 e 02 - Pré-requisitos
 
 * [Configuração do ambiente e IDEs](/php-laracast/aula1.md)
+
+
+### Aula 03 - Váriaveis
+* [Váriaveis](/php-laracast/aula03.md)
