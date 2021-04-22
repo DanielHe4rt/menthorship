@@ -14,10 +14,6 @@
     </style>
 </head>
 <body>
-    <header>
-        <h1>
-            <?= "Hello, " . htmlspecialchars($_GET['name']);?>;
-        </h1>
-    </header>
+
 </body>
 </html>
