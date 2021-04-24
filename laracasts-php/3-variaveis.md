@@ -3,9 +3,9 @@
 
 ### Subindo um servidor 
 
-Primeiro passo dessa aula é inicializar um servidor web. Para saber qual comando utilizar basta rodar o seguinto comando em seu terminal, `php -h`, que será exibido as opções de linha de comando para utilizar com php.
+Primeiro passo dessa aula é inicializar um servidor web. Para saber qual comando utilizar basta rodar o seguinte comando no seu terminal, `php -h`, que será exibido as opções de linha de comando para utilizar com php.
 
-Para subir um servidor deve-se utilizar -S seguido do endereço e uma porta.
+Para subir um servidor deve-se utilizar `php -S` seguido do endereço e uma porta.
 
 Exemplo:
 
@@ -20,12 +20,12 @@ Agora, se criarmos um arquivo index.php, colocando o seguinte código.
     echo 'Olá mundo';
 ?>
 ```
-Podemos ver o resultado no navegador, acessando `http://localhost:8888`
+Podemos ver o resultado no navegador, acessando  `http://localhost:8888`
 
 
 ### Variáveis 
 
-Para criar variáveis utilizamos o sinal $ seguido do nome da variável.
+Variavel é uma forma de armazenar algum dado no período em que nossa script está sendo executado, esse dado pode ser fornecido de forma dinamica ou não. Para criar variáveis utilizamos o sinal `$` seguido do nome da variável e atribuímos um valor utilizando o sinal `=` e o valor.
 
 Exemplo:
 ```php
@@ -37,7 +37,7 @@ Exemplo:
 ?>
 ```
 
-Com PHP podemos exibir um texto junto com o valor de uma variável, tomando cuidado para sempre utilizar aspas duplas.
+Com PHP podemos exibir um texto predefinido com o valor de uma variável, tomando cuidado para sempre utilizar aspas duplas.
 
 Exemplos:
 
@@ -54,9 +54,9 @@ Exemplos:
 ?>
 ```
 
-No primeiro echo vamos ter esse resultado: `Seu nome é Thaiane`, já no segundo vai ser exibido `Seu nome é $name`, ou seja não veremos o que está dentro da variável e sim o seu nome.
+No primeiro echo vamos ter este resultado: `Seu nome é Thaiane`, já no segundo vai ser exibido `Seu nome é $name` ou seja, não veremos o que está na variável e sim o seu nome.
 
-Outra forma de fazer isso é usar contatenação, em PHP a concatenação é feita com um ponto final. Podendo concatenar variáveis com variáveis e variáveis com textos.
+Outra forma de fazer isso é usar concatenação, em PHP a concatenação é feita com um ponto final. Podendo concatenar variáveis com variáveis e variáveis com textos.
 
 Exemplos:
 
@@ -84,7 +84,7 @@ Exemplos:
 ?>
 ```
 
-Outra forma de exibir uma vairiável é colocando `{}` envolta, assim tornando o código mais legível.
+Outra forma de exibir uma variável é colocando `{}` envolta, assim tornando o código mais legível.
 
 Exemplo:
 
